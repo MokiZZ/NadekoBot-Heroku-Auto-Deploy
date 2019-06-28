@@ -15,10 +15,10 @@
     ]
   },
   "donate": {
-    "Cmd": "donate",
+    "Cmd": "donate1",
     "Desc": "Instructions for helping the project financially.",
     "Usage": [
-      "{0}donate"
+      "{0}donate1"
     ]
   },
   "modules": {
